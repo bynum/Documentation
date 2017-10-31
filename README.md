@@ -66,7 +66,7 @@ The contents of `artifacts\doc\Website` is what gets copied to the `autofac.gith
   * Assembly Scanning ![Progress](http://progressed.io/bar/90)
 * Resolving Services
   * index ![Progress](http://progressed.io/bar/100)
-  * Passing Parameters to Resolve
+  * Passing Parameters to Resolve ![Progress](http://progressed.io/bar/100)
   * Implicit Relationship Types ![Progress](http://progressed.io/bar/70)
 
 * Controlling Scope and Lifetime
@@ -85,10 +85,4 @@ The contents of `artifacts\doc\Website` is what gets copied to the `autofac.gith
   * ASP.NET
   * .NET Core
   * ASP.NET Core
-  * Windows Communication Foundation (WCF)
-  * Managed Extensibility Framework (MEF)
-  * Common Service Locator
-  * Enterprise Library 5
-  * NHibernate
-  * Moq
-  * FakeItEasy
+  
